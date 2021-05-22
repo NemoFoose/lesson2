@@ -1,0 +1,52 @@
+body{
+  background-image: url(https://cdn2.unrealengine.com/201121-fnbr-chapter2-season6-battlepass-still7-1920x1080-7ed849b65f90.png);
+background color: purple;
+color: white;
+}
+h1{
+   font-size: 56px ;
+   color: black;
+}
+h2{
+font-size: 50px;
+color: black;
+}
+p{
+
+font-size: 50px;
+color: black;
+}
+ol, ul{
+  color: black;
+  font-size:50 px;
+  list-style-type: none;
+  margin: 20px 10px;
+}
+li{
+  display: inline-block;
+}
+a{
+  color: white;
+  text-decoration: none;
+  padding: 20px 15px;
+  border 1px solid yellow;
+  border-radius: 5px;
+}
+a:hover{
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
+}
+.post
+  background-color: white;
+  color: black;
+  border: 2px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  .intro{
+    background-color: white;
+    color: black;
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
